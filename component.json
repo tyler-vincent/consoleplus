@@ -1,0 +1,17 @@
+{
+  "name" : "consoleplus",
+  "description" : "Log to console with wild abandon!",
+  "version" : "1.0",
+  "repository" : "tyler-vincent/consoleplus",
+  "main" : "index.js",
+  "scripts" : [
+    "index.js"
+  ],
+  "dependencies" : {},
+  "keywords": ["console","internet exploder","plus"],
+  "author": {
+    "name": "Tyler Vincent",
+    "email": "tyler.vincent@vidyard.com"
+  },
+  "license": "MIT"
+}
