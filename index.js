@@ -1,5 +1,5 @@
 module.exports = consoleplus;
 
-function consoleplus (msg) {
+function consoleplus(msg) {
   window.console && console.log(msg);
 };
